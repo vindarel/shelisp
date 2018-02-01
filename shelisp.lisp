@@ -116,7 +116,7 @@
 			  (mapcar #'(lambda (x)
 				      (format nil "~A" x))
 				  strlist)))))
-    (script evs :program "bash" :options nil)
+    (script evs :program "/bin/bash" :options nil)
     )
   )
 
