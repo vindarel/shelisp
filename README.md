@@ -10,6 +10,8 @@ The new version also includes a 'sh' macro that allows to call unix utilities di
 
 It was written by Alexandru Dan Corlan and distributed on http://dan.corlan.net/shelisp/.
 
+**update**: an updated fork of Shelisp, with a name change, is [https://github.com/Neronus/clesh](https://github.com/Neronus/clesh).
+
 ---
 
 # Documentation
